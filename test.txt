@@ -1,0 +1,3 @@
+TEST FILE
+
+createSimpleObject ["nc_test_obj_1.p3d"];
